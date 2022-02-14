@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * @Description： PACKAGE_NAME
- * @Author：LiPeng
+ * @Author：LiPeng , YangJiHa
  * @creationTime：
  */
 public class OrderingUtil {
