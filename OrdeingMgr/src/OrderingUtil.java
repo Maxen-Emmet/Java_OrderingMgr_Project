@@ -2,8 +2,9 @@ import java.util.Scanner;
 
 /**
  * @Description： PACKAGE_NAME
- * @Author：LiPeng , YangJiHa
+ * @Author：LiPeng,YangJiHan
  * @creationTime：
+ * @JDK 1.8
  */
 public class OrderingUtil {
     Scanner input = new Scanner(System.in);

@@ -1,7 +1,8 @@
 /**
  * @Description： PACKAGE_NAME
- * @Author：LiPeng , YJ
+ * @Author：LiPeng,YangJiHan
  * @creationTime：2021/11/14
+ * @JDK 1.8
  */
 public class OrderingMgr {
     public static void main(String[] args) {
