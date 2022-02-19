@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 /**
  * @Description： PACKAGE_NAME
- * @Author：LiPeng,YangJiHan
- * @creationTime：
+ * @Author：LiPeng
+ * @creationTime：2021/11/14
  * @JDK 1.8
  */
 public class OrderingUtil {
